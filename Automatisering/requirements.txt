@@ -1,0 +1,4 @@
+Pillow
+pytube
+youtube_dl
+PyPDF2
