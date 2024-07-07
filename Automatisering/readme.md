@@ -7,7 +7,7 @@ you must: 1.Create a venv. 2.Actitave venv. and 3.Install requirements in bash:
 2: . ./venv/bin/activate
 3: pip install -r requirements.txt
 
-PS: If you have run the script before, you might just have to do step 2(activate venv)
+Comment: Only first time running a script. 
 
 # Descrtiption: 
 
@@ -23,4 +23,12 @@ Theese scripts, however, are in some cases even more timesaving when used proper
 This repository is part of my journy learning python and automation on my spare time. 
 
 -Tor, June 29th 2024. 
+
+# How to run: 
+
+1. Scripts can be run directly in VS-code.
+2. Additionally, the scripts can be run in the zsh-terminal like this: 
+     cd [path]
+     ./yt.sh https://www.youtube.com/watch?v=u-RLu_8kwA0
+
 
